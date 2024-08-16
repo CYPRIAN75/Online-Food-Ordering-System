@@ -1,0 +1,20 @@
+FOOD ORDERING SYSTEM 
+
+DON'T FORGET TO CREATE A DATABASE NAMING "foodsys" AND IMPORT THE DATBASE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>> THE DATABASE FILE IS INSIDE "DATABASE" FOLDER!!
+
+Thanks to clinton.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+@mukemboclintoncyprian@gmail.com
+remember that to use this project for study purposes but do not sell its copies 
+
+
+#THANK YOU FOR DOWNLOADING
